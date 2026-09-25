@@ -1,0 +1,6 @@
+{
+  "name": "Serai Kohsar — Swat Valley",
+  "description": "An editorial boutique mountain retreat in Swat, Pakistan. Tranquil valley architecture, handcrafted suites, and peaceful northern hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
