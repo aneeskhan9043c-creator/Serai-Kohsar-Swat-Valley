@@ -57,7 +57,7 @@ export const IntroSection: React.FC = () => {
         >
           <div className="aspect-[16/10] sm:aspect-[16/9] md:aspect-[21/10] w-full relative">
             <img
-              src="/src/assets/images/intro_valley_window_room_1790277942519.jpg"
+              src="/images/intro_valley_window_room_1790277942519.jpg"
               alt="Minimalist room framing mountain views through floor-to-ceiling glass"
               loading="lazy"
               decoding="async"

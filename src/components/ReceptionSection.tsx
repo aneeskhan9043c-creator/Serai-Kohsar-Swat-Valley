@@ -24,7 +24,7 @@ export const ReceptionSection: React.FC<ReceptionSectionProps> = ({ onContactRec
           >
             <div className="aspect-[4/3] sm:aspect-[16/11] lg:aspect-[16/12] w-full relative">
               <img
-                src="/src/assets/images/gallery_lobby_lounge_1790278015718.jpg"
+                src="/images/gallery_lobby_lounge_1790278015718.jpg"
                 alt="Hotel Reception and Fireside Lounge at Serai Kohsar, Swat"
                 loading="lazy"
                 decoding="async"

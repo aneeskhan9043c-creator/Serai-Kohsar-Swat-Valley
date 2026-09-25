@@ -26,7 +26,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
             initial={{ scale: 1.08 }}
             animate={{ scale: 1 }}
             transition={{ duration: 1.6, ease: [0.16, 1, 0.3, 1] }}
-            src="/src/assets/images/hero_swat_valley_exterior_1790277922616.jpg"
+            src="/images/hero_swat_valley_exterior_1790277922616.jpg"
             alt="Serai Kohsar boutique mountain retreat overlooking the lush green Swat valley"
             referrerPolicy="no-referrer"
             className="absolute inset-0 w-full h-full object-cover object-[center_40%] sm:object-center"

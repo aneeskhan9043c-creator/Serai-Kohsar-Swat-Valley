@@ -34,10 +34,10 @@ export const ROOMS: Room[] = [
     bedType: 'King Bed',
     bathroomType: 'Private Bathroom',
     viewType: 'Pine Garden & Ridge View',
-    image: '/src/assets/images/room_deluxe_valley_1790277956757.jpg',
+    image: '/images/room_deluxe_valley_1790277956757.jpg',
     secondaryImages: [
-      '/src/assets/images/gallery_bathroom_stone_1790278029697.jpg',
-      '/src/assets/images/intro_valley_window_room_1790277942519.jpg',
+      '/images/gallery_bathroom_stone_1790278029697.jpg',
+      '/images/intro_valley_window_room_1790277942519.jpg',
     ],
     amenities: [
       'Wi-Fi',
@@ -66,10 +66,10 @@ export const ROOMS: Room[] = [
     bedType: 'Two Beds',
     bathroomType: 'Private Bathroom',
     viewType: 'Pine Hillside & Terrace View',
-    image: '/src/assets/images/room_family_suite_1790277969700.jpg',
+    image: '/images/room_family_suite_1790277969700.jpg',
     secondaryImages: [
-      '/src/assets/images/room_deluxe_valley_1790277956757.jpg',
-      '/src/assets/images/gallery_dining_breakfast_1790277997849.jpg',
+      '/images/room_deluxe_valley_1790277956757.jpg',
+      '/images/gallery_dining_breakfast_1790277997849.jpg',
     ],
     amenities: [
       'Wi-Fi',
@@ -98,10 +98,10 @@ export const ROOMS: Room[] = [
     bedType: 'King Bed',
     bathroomType: 'Private Bathroom',
     viewType: 'Valley View',
-    image: '/src/assets/images/room_valley_view_1790277982504.jpg',
+    image: '/images/room_valley_view_1790277982504.jpg',
     secondaryImages: [
-      '/src/assets/images/gallery_bathroom_stone_1790278029697.jpg',
-      '/src/assets/images/intro_valley_window_room_1790277942519.jpg',
+      '/images/gallery_bathroom_stone_1790278029697.jpg',
+      '/images/intro_valley_window_room_1790277942519.jpg',
     ],
     amenities: [
       'Wi-Fi',
@@ -130,10 +130,10 @@ export const ROOMS: Room[] = [
     bedType: 'King Bed',
     bathroomType: 'Private Bathroom',
     viewType: 'Panoramic Mountain & Valley',
-    image: '/src/assets/images/intro_valley_window_room_1790277942519.jpg',
+    image: '/images/intro_valley_window_room_1790277942519.jpg',
     secondaryImages: [
-      '/src/assets/images/room_valley_view_1790277982504.jpg',
-      '/src/assets/images/gallery_lobby_lounge_1790278015718.jpg',
+      '/images/room_valley_view_1790277982504.jpg',
+      '/images/gallery_lobby_lounge_1790278015718.jpg',
     ],
     amenities: [
       'Wi-Fi',
@@ -154,7 +154,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-1',
     title: 'The Valley Pavilion',
     category: 'HOTEL',
-    image: '/src/assets/images/hero_swat_valley_exterior_1790277922616.jpg',
+    image: '/images/hero_swat_valley_exterior_1790277922616.jpg',
     aspect: 'landscape',
     caption: 'Low-slung stone and local timber architecture settling harmoniously into the terraced Swat hillside.',
   },
@@ -162,7 +162,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-2',
     title: 'Reception & Fireside Lounge',
     category: 'RECEPTION',
-    image: '/src/assets/images/gallery_lobby_lounge_1790278015718.jpg',
+    image: '/images/gallery_lobby_lounge_1790278015718.jpg',
     aspect: 'portrait',
     caption: 'Natural rough-hewn stone fireplace, walnut shelves, and comfortable linen seating where guests are welcomed.',
   },
@@ -170,7 +170,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-3',
     title: 'Executive Suite Salon',
     category: 'ROOMS',
-    image: '/src/assets/images/intro_valley_window_room_1790277942519.jpg',
+    image: '/images/intro_valley_window_room_1790277942519.jpg',
     aspect: 'landscape',
     caption: 'Double-height windows framing morning mist and deodar cedar slopes from the Executive Suite.',
   },
@@ -178,7 +178,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-4',
     title: 'Terrace Dining Table',
     category: 'DINING',
-    image: '/src/assets/images/gallery_dining_breakfast_1790277997849.jpg',
+    image: '/images/gallery_dining_breakfast_1790277997849.jpg',
     aspect: 'landscape',
     caption: 'Outdoor restaurant verandah laid with farm-fresh breakfast, local breads, and steaming Peshawari kahwa.',
   },
@@ -186,7 +186,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-5',
     title: 'Freestanding Stone Tub',
     category: 'BATHROOM',
-    image: '/src/assets/images/gallery_bathroom_stone_1790278029697.jpg',
+    image: '/images/gallery_bathroom_stone_1790278029697.jpg',
     aspect: 'portrait',
     caption: 'Minimalist charcoal stone soaking bathtub positioned beside pine trees with soft diffused natural daylight.',
   },
@@ -194,7 +194,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-6',
     title: 'Valley View Room Balcony',
     category: 'VIEWS',
-    image: '/src/assets/images/room_valley_view_1790277982504.jpg',
+    image: '/images/room_valley_view_1790277982504.jpg',
     aspect: 'landscape',
     caption: 'Private cedar deck with sweeping outlooks across terraced fruit orchards and the Swat river basin below.',
   },
@@ -202,7 +202,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-7',
     title: 'Deluxe Room Walnut Joinery',
     category: 'ROOMS',
-    image: '/src/assets/images/room_deluxe_valley_1790277956757.jpg',
+    image: '/images/room_deluxe_valley_1790277956757.jpg',
     aspect: 'landscape',
     caption: 'Handcrafted local walnut furnishings and crisp cotton bedding designed for restorative mountain sleep.',
   },
@@ -210,7 +210,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-8',
     title: 'Main Lobby & Reading Hearth',
     category: 'COMMON AREAS',
-    image: '/src/assets/images/gallery_lobby_lounge_1790278015718.jpg',
+    image: '/images/gallery_lobby_lounge_1790278015718.jpg',
     aspect: 'landscape',
     caption: 'Quiet fireside retreat with curated books on Gandhara history, local ceramics, and afternoon tea service.',
   },
@@ -222,7 +222,7 @@ export const HOTEL_EXPERIENCE_ITEMS = [
     tagline: 'A quiet social heart centered around local stone and wood.',
     description:
       'As evening settles over the valley, guests gather around our natural stone hearth for hot cardamoms tea, regional literature, and calm conversations.',
-    image: '/src/assets/images/gallery_lobby_lounge_1790278015718.jpg',
+    image: '/images/gallery_lobby_lounge_1790278015718.jpg',
     aspect: 'tall',
   },
   {
@@ -230,7 +230,7 @@ export const HOTEL_EXPERIENCE_ITEMS = [
     tagline: 'Fresh mountain breakfast overlooking terraced orchards.',
     description:
       'Breakfast and evening dinners served open-air on the stone verandah. Enjoy fresh country eggs, local Swati honey, tandoor flatbread, and herbal infusions.',
-    image: '/src/assets/images/gallery_dining_breakfast_1790277997849.jpg',
+    image: '/images/gallery_dining_breakfast_1790277997849.jpg',
     aspect: 'wide',
   },
   {
@@ -238,7 +238,7 @@ export const HOTEL_EXPERIENCE_ITEMS = [
     tagline: 'Direct connection to Swat’s pine breezes and morning mist.',
     description:
       'Step out to panoramic views of winding river trails and terraced hillsides. An unhurried place to read, sip green tea, and watch mountain cloudscapes.',
-    image: '/src/assets/images/room_valley_view_1790277982504.jpg',
+    image: '/images/room_valley_view_1790277982504.jpg',
     aspect: 'wide',
   },
 ];
@@ -261,7 +261,7 @@ export const DINING_INFO = {
   subheading: 'Local & Continental culinary traditions prepared with fresh valley produce.',
   description:
     'Dining at Serai Kohsar is centered on simplicity, seasonal ingredients, and panoramic valley views. From morning tea under the pines to relaxed evening dinners by the stone hearth, every meal is prepared with care by our kitchen team.',
-  image: '/src/assets/images/gallery_dining_breakfast_1790277997849.jpg',
+  image: '/images/gallery_dining_breakfast_1790277997849.jpg',
   features: [
     {
       title: 'Artisanal Valley Breakfast',
